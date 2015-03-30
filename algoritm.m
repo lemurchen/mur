@@ -13,8 +13,4 @@
      be_y(j)=all1(i+3,4);
      be_is(j)=all1(i+3,2); 
       be_bid(j)=all1(i+3,2); 
- else
-     be_x(j)=all1(i+1,3);
-     be_y(j)=all1(i+1,4);
-     be_is(j)=all1(i+1,2); 
-      be_bid(j)=all1(i+1,2);         
+%ururu ^^      
